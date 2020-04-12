@@ -2,8 +2,11 @@ Cadcoin
 =======
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2014 Cadcoin Developers
+
 Copyright (c) 2020-2020 Cadcoin Developers
+
 
 What is Cadcoin?
 ----------------
@@ -17,7 +20,7 @@ Cadcoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
 What is next?
 -------------
 
-windows wallet and mining client.
+windows wallet and mining client.✔✔
 
 https://github.com/cadcoin-project/windows-miner-client.git
 
@@ -25,8 +28,9 @@ website.
 
 not yet.
 
-Block explorer.
+Block explorer.✔✔
 
+http://45.76.42.141:3001/
 
 
 current info.
@@ -57,5 +61,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./cadcoin-qt_test
 
-# cadcoin1
+# cadcoin team
 
