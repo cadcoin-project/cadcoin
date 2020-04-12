@@ -12,10 +12,35 @@ Cadcoin is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
  - subsidy halves in 750k blocks
  - ~6 million total coins
-
-The rest is the same as Bitcoin.
  - 50 coins per block
 
+What is next?
+-------------
+
+windows wallet and mining client.
+
+https://github.com/cadcoin-project/windows-miner-client.git
+
+website.
+
+not yet.
+
+Block explorer.
+
+
+
+current info.
+-------------
+
+coins mined to date 216700
+
+blocks mined to date 4334
+
+network speed 467MH
+
+difficulty 15
+
+-------------------------------------------------------------------------------------------------------------------------
 
 Testing
 
@@ -33,4 +58,4 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     ./cadcoin-qt_test
 
 # cadcoin1
-# cadcoin1
+
