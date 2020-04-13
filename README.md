@@ -24,6 +24,10 @@ windows wallet and mining client.✔✔
 
 https://github.com/cadcoin-project/windows-miner-client.git
 
+Nodes.
+
+2 nodes up and running added in pseed in net.cpp script.✔✔
+
 website.
 
 not yet.
