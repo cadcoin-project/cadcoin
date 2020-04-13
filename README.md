@@ -46,8 +46,10 @@ current info.
 -------------
 
 coins mined to date 216700
+coins mined to date 229000
 
 blocks mined to date 4334
+blocks mined to date 4586
 
 network speed 467MH
 
