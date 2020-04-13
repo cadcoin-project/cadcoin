@@ -33,6 +33,11 @@ Block explorer.✔✔
 http://45.76.42.141:3001/
 
 
+mining pool.
+
+not yet
+
+
 current info.
 -------------
 
