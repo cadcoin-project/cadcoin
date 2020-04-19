@@ -45,21 +45,13 @@ not yet
 current info.
 -------------
 
-coins mined to date 216700
+coins mined to date 278,450
 
-coins mined to date 229000
+blocks mined to date 5569
 
-coins mined to date 254,800
+network speed 730.925 MH
 
-blocks mined to date 4334
-
-blocks mined to date 4586
-
-blocks mined to date 5101
-
-network speed 1,242.753 MH
-
-difficulty 15.98
+difficulty 63.93
 
 -------------------------------------------------------------------------------------------------------------------------
 
